@@ -112,4 +112,5 @@ string = input("Informe uma string para inverter: ")
 print(f"String invertida: {reverse_string(string)}")
 
 
-
+#Tiago Santos
+#Obrigado :)
